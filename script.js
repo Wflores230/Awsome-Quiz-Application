@@ -220,7 +220,7 @@ let questions = [
       "Cod Black Ops",
       "Cod Ghost",
       "Cod Advance Warfare",
-      "Cod Modern Warefare"
+      "Cod Modern Warfare"
     ]
   },
     {
