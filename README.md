@@ -5,7 +5,9 @@ The following files contain the working Quiz on gaming. Using HTML, CSS, and Jav
 
 ## Breakdown
 I created a quiz for gamers, to see what they know about games that I played growing up. I was able to create five questions about games and their multiple choice. I started off with HTML, created a rule box to ensure the player knew what they were going into. Created more containers for the questions and the end result. The result will show what you got and if you wanted tp play again. 
+<br />
 The CSS seems to be getting easier for me. I used google fonts for the first time and also a site known as https://fontawesome.com/start for the emojis. Added many different features and some logos to the quiz. 
+<br />
 The Javascript was probably the hardest for me. I was able to use first party apis and I found it to be exciting but challenging. It's just trial and error sometimes, and even though wroking with first party apis takes a while, it will be owrth it when you finally get it down.
 
 ## Screenshots
